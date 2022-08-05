@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 My name is Ghers, and you've just reached the place where I play (and work!) with code. I hope you enjoy the ride!<br />
-Personal projects, course practices, collaborations... You can find a bit of everything.<br />
+<br />
+Personal projects, course practices, collaborations... You can find a bit of everything here.<br />
 <br />
 If you want to see more than just the code in the repos, check out some of my deployed projects:<br />
 <br />
