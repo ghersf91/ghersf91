@@ -9,6 +9,7 @@ If you want to see more than just the code in the repos, check out some of my de
 • code4stay: [deployed app](https://code4stay.netlify.app/) | [client repo](https://github.com/ghersf91/code4Stay-client) | [server repo](https://github.com/ghersf91/code4Stay-server)<br />
 • tikitrips: [deployed app](https://tikitrips.herokuapp.com/) | [repo](https://github.com/ghersf91/tikitrips)<br />
 • pang universe: [deployed app](https://ghersf91.github.io/pang-universe/) | [repo](https://github.com/ghersf91/pang-universe)<br />
+• chocostore: [deployed app](https://ghersf91.github.io/chocostore/) | [repo](https://github.com/ghersf91/chocostore)<br />
 <br />
 Please feel free to reach out if you have feedback, doubts or just want to have a chat!
 
