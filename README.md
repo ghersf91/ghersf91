@@ -13,6 +13,8 @@ If you want to see more than just the code in the repos, check out some of my de
 <br />
 Please feel free to reach out if you have feedback, doubts or just want to have a chat!
 
+Happy coding!
+
 ✉: ghersf91@gmail.com<br />
 👔: https://www.linkedin.com/in/ghers-fisman/
 
